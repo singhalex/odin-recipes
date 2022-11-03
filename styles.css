@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(0, 255, 213);
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+h1 {
+    background-color: rgb(237, 240, 65);
+}
+
+.ingredients li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(182, 116, 243);
+}
+
+.directions li {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
